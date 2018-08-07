@@ -6,4 +6,3 @@ applications:
     - route: traviscl2.apps.pcf.paltraining.perficient.com
   env:
     WELCOME_MESSAGE: Hello from the review environment
-  skip_ssl_validation: true
