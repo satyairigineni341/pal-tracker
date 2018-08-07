@@ -1,9 +1,9 @@
 applications:
 - name: pal-tracker
   path: build/libs/pal-tracker.jar
-  skip_ssl_validation: true
   #random-route: true
   routes:
     - route: traviscl2.apps.pcf.paltraining.perficient.com
   env:
     WELCOME_MESSAGE: Hello from the review environment
+  skip_ssl_validation: true
