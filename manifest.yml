@@ -3,6 +3,7 @@ applications:
   path: build/libs/pal-tracker.jar
   #random-route: true
   routes:
-    - route: traviscl2.apps.pcf.paltraining.perficient.com
+    #- route: traviscl2.apps.pcf.paltraining.perficient.com
+     - route: something-accountable-aligator.apps.pcf.paltraining.perficient.com
   env:
     WELCOME_MESSAGE: Hello from the review environment
